@@ -1,0 +1,10 @@
+{
+  "media": {
+    "root": "public/images",
+    "public": "public/images"
+  },
+  "content": {
+    "root": "public"
+  },
+  "themeConfig": []
+}
